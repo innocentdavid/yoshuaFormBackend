@@ -11,8 +11,8 @@ const progressText = document.querySelectorAll(".step p");
 const progressCheck = document.querySelectorAll(".step .check");
 const bullet = document.querySelectorAll(".step .bullet");
 let current = 1;
-// const serverBaseUrl = "http://localhost:3100";
 const serverBaseUrl = "http://localhost:3100";
+// const serverBaseUrl = "https://glacial-tor-90435.herokuapp.com";
 
 var userId = 0;
 
